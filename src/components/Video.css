@@ -1,0 +1,23 @@
+video{
+  width:1440px;
+}
+@media screen and (max-width: 800px) {
+  video{
+  width:800px;
+}
+}
+@media screen and (max-width: 360px) {
+  video{
+      width:360px;
+}
+}
+@media screen and (max-width: 320px) {
+  video{
+      width:320px;
+}
+}
+@media screen and (max-width: 415px) {
+  video{
+      width:415px;
+}
+}
